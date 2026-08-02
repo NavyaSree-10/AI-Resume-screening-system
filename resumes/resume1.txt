@@ -1,0 +1,12 @@
+Navya
+
+Skills:
+Python
+SQL
+Machine Learning
+Pandas
+NumPy
+Data Analysis
+
+Experience:
+Worked on Python programming and data analysis projects.

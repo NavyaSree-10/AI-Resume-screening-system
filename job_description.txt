@@ -1,0 +1,11 @@
+Python Developer
+
+Skills Required:
+- Python
+- SQL
+- Machine Learning
+- Pandas
+- NumPy
+- Scikit-learn
+- Git
+- Communication Skills
